@@ -15,8 +15,8 @@ const TopBar = () => {
   };
 
   const user = {
-    name: 'Harish Kumar N',
-    email: 'harishkumarkannan2005@gmail.com',
+    name: 'Minato',
+    email: '####@gmail.com',
     imageUrl: '/skillsphere/minato.png', 
   };
 
